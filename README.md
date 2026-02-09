@@ -6,7 +6,7 @@ Este espaço é dedicado à minha evolução como desenvolvedor — um portfóli
 Fique à vontade para explorar.
 
 
-**<span style="color:#4ea8de">Todas as sugestões, feedback ou conexão são bem-vinda!</span>**
+<span style="color:#4ea8de"><strong>Todas as sugestões, feedback ou conexão são bem-vinda!</strong></span>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/diego-silva-profile" target="_blank">
