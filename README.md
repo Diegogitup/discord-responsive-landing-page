@@ -4,7 +4,8 @@
 Este espaço é dedicado à minha evolução como desenvolvedor — um portfólio técnico para compartilhar conhecimentos, ideias e códigos.
 
 Fique à vontade para explorar.
-<br/>
+
+
 **<span style="color:#4ea8de">Todas as sugestões, feedback ou conexão são bem-vinda!</span>**
 
 <p align="left">
