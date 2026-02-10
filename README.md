@@ -117,7 +117,7 @@ O desafio tem como foco principal a aplicação prática dos conceitos de **HTML
 </p>
 
 <p align="center">
-  <a href="https://diegogitup.github.io/Social-Links-Profile/](https://diegogitup.github.io/discord-responsive-landing-page/)" target="_blank">
+  <a href="https://diegogitup.github.io/discord-responsive-landing-page/" target="_blank">
     <img alt="Prévia do projeto" src="https://i.imgur.com/YooF8pM.png" width="40%">    
     <img alt="Prévia do projeto" src="https://i.imgur.com/H1omCqp.png" width="12.4%">
   </a>
